@@ -1,1 +1,4 @@
-we have some branches beta,main,stage 
+we have some branches 
+beta
+main 
+stage 
