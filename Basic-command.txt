@@ -1,0 +1,4 @@
+git status -> iss ka mtlb hh ki m working directory.
+git add . -> ya code ko stagging directory m ponchay ga.
+git restore -> ak step picha
+vjsbz
